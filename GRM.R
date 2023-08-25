@@ -1,3 +1,9 @@
+# This study is a major project for the "Item Response Theory" course (self-funded) 
+# Original statement: Code written by Meng Yifan and Cheng Yajing (Faculty of Psychology, Beijing Normal University)
+# Some of the code is derived from the lecturer Tian Wei at the Collaborative Innovation Center.
+# other questions please contact the author by email: 202011061075@mail.bnu.edu.cn
+# Date Last Modified: Dec 7, 2022
+
 library(mirt)
 library(dplyr)
 library(readxl)
