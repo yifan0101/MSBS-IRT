@@ -6,3 +6,10 @@ Previous research has often used methods like self-reporting and context-specifi
 
 Chinese scholars adapted MSBS, creating a 24-item Chinese version. However, due to its complexity, researchers have simplified MSBS in practical use, like using specific dimensions or fewer items.
 This study aims to further streamline MSBS for experimental use while maintaining its core structure. This helps keep a consistent understanding and assessment of boredom.
+
+_This study is a major project for the "Item Response Theory" course (self-funded)_
+
+
+_Original statement: Code written by Meng Yifan and Cheng Yajing (Faculty of Psychology, Beijing Normal University). Some of the code is derived from the lecturer Tian Wei at the Collaborative Innovation Center.
+Other questions please contact the author by email: 202011061075@mail.bnu.edu.cn
+Date Last Modified: Dec 7, 2022_
